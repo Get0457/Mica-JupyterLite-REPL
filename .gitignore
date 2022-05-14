@@ -1,0 +1,10 @@
+.vs
+.vscode
+Mica Browser/bin
+Mica Browser/obj
+Mica Window/bin
+Mica Window/obj
+Mica Broswer Tester/bin
+Mica Broswer Tester/obj
+Settings Builder/bin
+Settings Builder/obj
